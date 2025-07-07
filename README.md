@@ -37,7 +37,8 @@ Pull requests and discussions are welcome – especially around:
 
 ## 👨‍👩‍👧‍👦 Fun Facts
 
-In my free time, I enjoy spending time with my family & friends. When I get a moment to spare, I dive into home automation and making [music](https://soundcloud.com/ifwmr).
+I dive into home automation, make [🎤 music](https://soundcloud.com/ifwmr),
+or take [🖼️ photographs](https://unsplash.com/de/@matzekatze).
 
 ## 📫 Connect
 
