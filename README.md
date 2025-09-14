@@ -20,6 +20,9 @@ Hi, I’m Matze – a platform engineer from Osnabrück who enjoys making life i
 
 ## ⭐ Featured Projects
 
+### [k8s-copycat](https://github.com/matzegebbe/k8s-copycat)
+A Kubernetes controller that synchronizes container images from cluster workloads to external registries.
+
 ### [web‑jwks‑validator](https://github.com/matzegebbe/web-jwks-validator)  
 A minimal JWT validation service (written in Go) that acts as an external authentication provider for example `ingress-nginx`.
 
