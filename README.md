@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 👉 matzegebbe – Mathias Gebbe
+## matzegebbe – Mathias Gebbe
 
 [![GitHub followers](https://img.shields.io/github/followers/matzegebbe?label=Follow&style=social)](https://github.com/matzegebbe)
 
@@ -51,4 +51,4 @@ or take [🖼️ photographs](https://unsplash.com/de/@matzekatze).
 
 ---
 
-*Last updated: July 2025*
+*Last updated: November 2025*
