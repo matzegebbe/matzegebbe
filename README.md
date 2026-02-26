@@ -37,7 +37,7 @@ A Docker setup for running a PIVX wallet.
 | Date | Title / Event | Platform & Links |
 |------|----------------|------------------|
 | **19 Jun 2025** | **On Tour @ #headinthecloud – Platform Engineering** (Working Draft Podcast / Head in the Cloud 2025) | 🎧 **Podcast (Spotify/Working Draft):** https://open.spotify.com/episode/2KVIk0IvvC0J9p8lvDQowh  <br> 🎥 **YouTube / Conference Video:** https://www.youtube.com/watch?v=e6y29A2TlaQ |
-| **29 Apr 2025** | *Platform Stories* (meshcloud Video Podcast with Mathias Gebbe & Aljoscha Pörtner) | 🎥 **YouTube (meshcloud Streams):** https://www.youtube.com/@meshcloud/streams |
+| **29 Apr 2025** | *Platform Stories* (meshcloud Video Podcast with Mathias Gebbe & Aljoscha Pörtner) | 🎥 **YouTube (meshcloud Streams):** [https://www.youtube.com/watch?v=FBtwdrEfi4s](https://www.youtube.com/watch?v=FBtwdrEfi4s) |
 | **09 Oct 2024** | 94 – *Developer Experience Revolution: The Platform Strategy at Hellmann* (AWS Cloud Horizonte Podcast) | 🎧 **Spotify:** https://open.spotify.com/episode/42HxP8ghwfwT7ma3iHcvdp  <br> 🎧 **Other Players (e.g., Apple Podcasts):** https://podcasts.apple.com/dz/podcast/94-developer-experience-revolution-die-plattform-strategie/id1547094534?i=1000672316349 |
 | **12 Jun 2024** | Logbook of a journey – *Building a platform team in a 150-year-old logistics company* (PlatformCon 2024 Talk) | 🎥 **YouTube (Video-Recording):** https://www.youtube.com/watch?v=e8z18dfkSR8 |
 
