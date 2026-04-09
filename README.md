@@ -29,6 +29,9 @@ A Helm chart for deploying k8s-copycat in Kubernetes, providing configurable ins
 ### [web‑jwks‑validator](https://github.com/matzegebbe/web-jwks-validator)  
 A minimal JWT validation service (written in Go) that acts as an external authentication provider for example `ingress-nginx`.
 
+### [dex-token-broker](https://github.com/matzegebbe/dex-token-broker)
+DexTokenBroker is a lightweight external authorization service for [Envoy Gateway](https://github.com/envoyproxy/gateway) and [Dex](https://github.com/dexidp/dex)
+
 ### [docker‑pivx‑wallet](https://github.com/matzegebbe/docker-pivx-wallet)  
 A Docker setup for running a PIVX wallet.
 
