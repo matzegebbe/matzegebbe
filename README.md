@@ -58,4 +58,4 @@ or take [🖼️ photographs](https://unsplash.com/de/@matzekatze).
 
 ---
 
-*Last updated: Feb 2026*
+*Last updated: Sep 2026*
